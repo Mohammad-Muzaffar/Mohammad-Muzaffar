@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-muzaffar" alt="mohammad-muzaffar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@muzaffa27596204" target="blank"><img src="https://img.shields.io/twitter/follow/@muzaffa27596204?logo=twitter&style=for-the-badge" alt="@muzaffa27596204" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@muzaffa27596204" target="blank"><img src="https://img.shields.io/twitter/follow/@muzaffa27596204?logo=twitter&style=for-the-badge" alt="muzaffa27596204" /></a> </p>
 
 - 🔭 I’m currently working on **QR MenuLinker**
 
