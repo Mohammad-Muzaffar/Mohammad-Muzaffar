@@ -1,7 +1,7 @@
 # Hi, I'm Muzaffar Shaikh
 # 💫 About Me:
 
-🔭 I’m currently working at @AngularMinds in India.<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>👨‍💻 All of my projects are available at github<br><br>💬 Ask me about React, Next, DevOps.
+👯 I’m looking to collaborate on Open Source Projects<br><br>👨‍💻 All of my projects are available at github<br><br>💬 Ask me about React, Next, DevOps.
 
 
 ## 🌐 Socials:
