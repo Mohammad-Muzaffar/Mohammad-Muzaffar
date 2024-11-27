@@ -76,7 +76,7 @@ Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Develo
 
 ### 🔝 Top Contributed Repos:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mohammad-Muzaffar&limit=8&theme=dracula&combine_all_yearly_contributions=true" width="40%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mohammad-Muzaffar&limit=8&theme=dracula&combine_all_yearly_contributions=true" width="50%"/>
 </p>
 
 ---
