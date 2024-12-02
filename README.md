@@ -1,7 +1,7 @@
 # Hi, I'm Muzaffar Shaikh 👋
 
 <p align="center">
-  <a href="https://github.com/Mohammad-Muzaffar">
+  <a href="https://github.com/mohammadmuzaffarshaikh">
     <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="80%"/>
   </a>
 </p>
@@ -20,7 +20,7 @@ Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Develo
 ---
 
 ## 👨‍💻 My Projects
-- 🔗 Check out all my projects on my [GitHub Profile](https://github.com/Mohammad-Muzaffar?tab=repositories).
+- 🔗 Check out all my projects on my [GitHub Profile](https://github.com/mohammadmuzaffarshaikh?tab=repositories).
 
 ---
 
@@ -46,14 +46,14 @@ Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Develo
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Muzaffar&theme=gotham&layout=compact" width="40%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmuzaffarshaikh&theme=gotham&layout=compact" width="40%"/> 
 </p>
 
 <p align="center">
   <a href="https://github.com/Mohammad-Muzaffar?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Mohammad-Muzaffar&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mohammadmuzaffarshaikh&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/Mohammad-Muzaffar?tab=stars">
+  <a href="https://github.com/mohammadmuzaffarshaikh?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammad-Muzaffar&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats"/>
   </a>
 </p>
@@ -62,14 +62,14 @@ Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Develo
 
 # 📈 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Muzaffar&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadmuzaffarshaikh&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Contribution%20Graph%20in%20All%20Repositories" width="95%" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Muzaffar&column=-1&theme=dracula&layout=compact" width="95%"/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadmuzaffarshaikh&column=-1&theme=dracula&layout=compact" width="95%"/> 
 </p>
 
 ---
