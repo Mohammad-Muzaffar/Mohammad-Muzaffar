@@ -54,7 +54,7 @@ Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Develo
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mohammadmuzaffarshaikh&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/mohammadmuzaffarshaikh?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohammad-Muzaffar&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammadmuzaffarshaikh&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak Stats"/>
   </a>
 </p>
 
@@ -76,10 +76,10 @@ Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Develo
 
 ### 🔝 Top Contributed Repos:
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mohammad-Muzaffar&limit=8&theme=dracula&combine_all_yearly_contributions=true" width="50%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=mohammadmuzaffarshaikh&limit=5&theme=dracula&combine_all_yearly_contributions=true" width="50%"/>
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Mohammad-Muzaffar&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohammadmuzaffarshaikh&icon=1&color=0)](https://visitcount.itsvg.in)
 
