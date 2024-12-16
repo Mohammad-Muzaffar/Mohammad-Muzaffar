@@ -15,7 +15,7 @@ Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Develo
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmuzaffarshaikh&theme=gotham&layout=compact" width="40%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmuzaffarshaikh&layout=compact" width="40%"/> 
 </p>
 
 <p align="center">
