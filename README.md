@@ -5,14 +5,15 @@
 # 💫 About Me:
 Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Development** and **DevOps**. 
 
-<a align="center" href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/mohammadmuzaffarshaikh?pet-id=656732358675390920"
-    width="700"
-    height="220"
-  />
+<p align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/mohammadmuzaffarshaikh"
+  width="600"
+  height="300"
+/>
 </a>
-
+</p>
 
 ---
 
