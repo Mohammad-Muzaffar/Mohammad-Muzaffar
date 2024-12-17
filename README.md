@@ -40,3 +40,14 @@ Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Develo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohammadmuzaffarshaikh&column=-1&theme=dracula&layout=compact" width="95%"/> 
 </p>
+---
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/mohammadmuzaffarshaikh?pet-id=656732358675390920"
+    width="700"
+    height="220"
+  />
+</a>
+  
