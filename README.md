@@ -6,13 +6,15 @@
 Hi! I'm a passionate **Software Engineer** with expertise in **Full Stack Development** and **DevOps**. 
 
 <p align="center">
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/mohammadmuzaffarshaikh"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/mohammadmuzaffarshaikh"
+    width="800"
+    height="320"
+  />
 </a>
+  
 </p>
 
 ---
